@@ -1,0 +1,20 @@
+#
+# generated on 2015/08/24 04:36:15
+#
+# --table-start--
+dataClass=com.example.henri_000.fechaaconta.model.Item
+tableName=item
+# --table-fields-start--
+# --field-start--
+fieldName=_id
+generatedId=true
+# --field-end--
+# --field-start--
+fieldName=_name
+# --field-end--
+# --field-start--
+fieldName=_price
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################

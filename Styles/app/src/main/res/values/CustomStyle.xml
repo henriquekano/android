@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="customBgColor">
+        #567123
+    </color>
+    <style name="customTheme" parent="android:Theme.Light">
+        <item name="android:windowBackground">
+            @color/customBgColor
+        </item>
+    </style>
+
+    <style name="lala">
+        <item name="android:layout_width">
+            wrap_content
+        </item>
+        <item name="android:layout_height">
+            wrap_content
+        </item>
+        <item name="android:textColor">
+            #efefef
+        </item>
+        <item name="android:background">
+            #006699
+        </item>
+    </style>
+
+    <style name="lala.lala2">
+        <item name="android:textSize">
+            100dp
+        </item>
+    </style>
+</resources>
